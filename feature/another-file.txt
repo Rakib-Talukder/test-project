@@ -1,1 +1,4 @@
 another-file.txt is just created in the feature-1 branch. It is only for test purpose.i will be learn the git and github basics by this project.
+this file is modified in feature-2 branch.
+
+It is changed in feature-2 branch in local repo.it has no reote repo for this branch.
